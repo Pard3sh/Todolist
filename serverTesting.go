@@ -1,4 +1,4 @@
-package main
+package serverTesting
 
 import (
 	"encoding/json"
